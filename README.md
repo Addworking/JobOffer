@@ -27,9 +27,10 @@ Si tu en as marre de te battre pour faire du beau code, de négocier les délais
 
 ## On recrute
 
-### Un développeur Laravel
+### ~~Un développeur Laravel~~ on l'a trouvé
 
-Niveau intermédiaire avec idéalement 3 ans d'experience dont au moins un an sur le framework Laravel 5.
+Niveau intermédiaire (car modeste), il utilise Laravel depuis sa version 4.2.
+
 
 ```PHP
 namespace Addworking\Jobs;
@@ -52,26 +53,35 @@ class LaravelDeveloper extends JobOffer implements OpportunityToGrow
 
 #### Compétences Laravel :sparkles:
 
-+ :bus: Routing
-+ :video_game: Contôleurs
-+ :hocho: Blade
-+ :speech_balloon: Eloquent
-+ :computer: Commandes
++ :bus: Routing  :heavy_check_mark:
++ :video_game: Contôleurs  :heavy_check_mark:
++ :hocho: Blade :heavy_check_mark:
++ :speech_balloon: Eloquent :heavy_check_mark:
++ :computer: Commandes :heavy_check_mark:
+
 
 #### Compétences obligatoires :star2:
 
-+ :elephant: PHP
-+ :octocat: Git
-+ :beer: Bootstrap
++ :elephant: PHP :heavy_check_mark:
++ :octocat: Git :heavy_check_mark:
++ :beer: Bootstrap :heavy_check_mark:
 
 #### Compétences appréciées :star:
 
-+ :gb: Anglais
-+ :penguin: Linux
-+ :snake: Bash
-+ :loop: SCRUM
-+ :balloon: SASS
-+ :triangular_ruler: jQuery
++ :gb: Anglais  :heavy_check_mark:
++ :penguin: Linux :soon:
++ :snake: Bash  :soon:
++ :loop: SCRUM :soon:
++ :balloon: SASS :heavy_check_mark:
++ :triangular_ruler: jQuery :heavy_check_mark:
+
+#### Compétences supplémentaire :chart_with_upwards_trend:
+
++ :gift: Développement de Package Laravel :heavy_check_mark:
++ :paperclip: TailwindCSS :heavy_check_mark:
++ :rocket: Vue.js :heavy_check_mark:
++ :bath: Windows & Batch :heavy_check_mark:
++ :satisfied: Super funny  :arrow_upper_left: (bat(c)h le langage de programmation, vous l'avez :question: )
 
 <p align="right"><a href="#sommaire">Sommaire</a> &#187; On recrute &#187; Un développeur Laravel</p>
 
@@ -80,7 +90,6 @@ class LaravelDeveloper extends JobOffer implements OpportunityToGrow
 ### Un lead-dev Laravel
 
 Niveau expert avec idéalement 5 ans d'experience dont au moins 3 ans sur le framework Laravel 5.
-
 
 ```PHP
 namespace Addworking\Jobs;
